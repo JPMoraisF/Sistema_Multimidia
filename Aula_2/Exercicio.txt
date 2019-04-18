@@ -1,0 +1,12 @@
+Imagens originais:
+	pepper.bmp, placa.tif, placa2.tif
+	
+Imagens geradas com o método da média:
+	pepperMedia.png
+	placaMedia.png
+	placa2Media.png
+	
+Imagens geradas com o método da mediana:
+	pepperMediana.png
+	placaMediana.png
+	placa2Mediana.png
